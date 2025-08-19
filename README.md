@@ -1,4 +1,4 @@
 # apnaClgDemo
 This is a demo git project
 <br>
-Owner name : Aditya Kute
+Owner name : Aditya Kute (Apna College)  
